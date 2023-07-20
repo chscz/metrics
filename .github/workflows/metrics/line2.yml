@@ -1,4 +1,4 @@
-mename: Repositories and diff history
+name: Repositories and diff history
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.lines.history.svg
